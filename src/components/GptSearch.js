@@ -6,8 +6,8 @@ const GptSearch = () => {
   return (
     <div>
          <img
-          className="absolute -z-10 w-full"
-          src="https://t4.ftcdn.net/jpg/05/67/23/37/360_F_567233754_9NSSHQRgPm40l1vzvUvI1ZfP1CLDH3Or.jpg"
+          className="fixed aspect-video -z-10 w-full"
+          src="https://static.vecteezy.com/system/resources/previews/022/454/669/large_2x/3d-rendering-of-a-little-robot-reading-a-book-in-a-dark-room-generative-ai-free-photo.jpg"
           alt="logo"
         />
         <GptSearchBar/>
